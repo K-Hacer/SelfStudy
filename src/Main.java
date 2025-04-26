@@ -1,24 +1,23 @@
-public class Main{
-    public static void main(String[] args) {
+import java.sql.SQLOutput;
+import java.util.Scanner;
 
-        int age = 19;
-        double x = 20.9;
-        double price = 10.2;
-        double temp = -16.5;
+public class Main {
+    public static void main(String[] args){
 
-        char grade = 'A';
-        char symbol = '!';
-        char currency = '$';
+        Scanner scanner = new Scanner(System.in);
+        System.out.print("Enter your name: ");
+        // Declarationn and Assignment
+        String name = scanner.nextLine();
 
-        boolean isStudent = false;
-        boolean forSale = false;
-        boolean isOnline = true;
 
-        if (isStudent){
-        System.out.println("You are a Student!");
-    }
-    else {
-        System.out.println("You are NOT a student!");
-        }
+        System.out.print("Enter your age: ");
+        int age = scanner.nextInt();
+
+        System.out.print("Hello" + " " + name);
+        System.out.print("\tYour age is" + " " + age);
+
+
+
+        scanner.close();
     }
 }
