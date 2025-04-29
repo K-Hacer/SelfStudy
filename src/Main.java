@@ -20,14 +20,26 @@ public class Main {
         System.out.print("Enter your age:  ");
         int age = scanner.nextInt();
 
+
         System.out.print("Enter your GPA: ");
         double gpa = scanner.nextDouble();
+
+        System.out.print("Are you student (True/false): ");
+        boolean isStudent = scanner.hasNextBoolean();
 
         System.out.println("HELLO, " + name);
         System.out.println("From "  + course + " Program");
         System.out.println("your age is " + age);
         System.out.println("and you are a " + gender);
         System.out.println("Your GPA is " + gpa);
+
+        if (isStudent){
+            System.out.println("Your are a Student");
+        }
+
+        else{
+            System.out.println("You are Not a Student");
+        }
         scanner.close();
     }
 }
