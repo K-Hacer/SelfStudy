@@ -1,6 +1,8 @@
 import java.sql.SQLOutput;
 import java.util.Scanner;
-
+/*This Code is Contain user input user for student information
+using import java.util packages to allow te user to input to the system.
+ */
 public class Main {
     public static void main(String[] args) {
         System.out.println("                                    \t\t\t\t\tStudent Information");
