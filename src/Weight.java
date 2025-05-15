@@ -32,6 +32,7 @@ public class Weight {
             weight = scanner.nextDouble();
             newWeight = weight * 0.453592;
             System.out.printf("The new weight in kgs is: %.2f", newWeight);
+            // I add %.2f to minimize the decimal then % because our vairable is double
         }
         else if(choice == 2){
             System.out.print("Enter the weight in kgs: ");
