@@ -11,6 +11,7 @@ public class Weight {
         //OPTION 2 CONVERT KGS TO LBS
         // CHOOSE OPTION
         // ELSE PRINT NOT A VALID CHOICE
+        // close scanner
 
 
          Scanner scanner = new Scanner(System.in);
