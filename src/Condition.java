@@ -13,9 +13,16 @@ public class Condition {
 
          */
 
-        int income = 30000;
+        /* int income = 30000;
 
         Double TaxRate = (income >= 20000) ? 0.23 : 2.56;
         System.out.println(TaxRate);
+
+         */
+
+        String Draw = "Paper";
+
+        String Paperscissor = (Draw == "Paper") ? "Paper." : "Scissor. ";
+        System.out.println(Paperscissor);
     }
 }
