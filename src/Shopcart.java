@@ -24,7 +24,7 @@ public class Shopcart {
         System.out.println("You purchase a " + item);
         System.out.println("total of the item is $ " + total);
 
-        System.out.println("Thankyou and Come again!");
+        System.out.println("Thankyou and Come again! ❤❤️");
 
         scanner.close();
     }
