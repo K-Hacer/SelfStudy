@@ -15,6 +15,10 @@ public class EvenOddChecker {
             System.out.println("The number is Odd!");
 
             scanner.close();
+
+            // Make a user promt
+            // initialize the Number
+            //
         }
     }
 }
