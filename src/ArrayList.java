@@ -1,3 +1,4 @@
+import java.util.Date;
 import java.util.Scanner;
 
 public class ArrayList {
@@ -23,6 +24,9 @@ public class ArrayList {
         } else {
             System.out.println(inputName + " is not in the list.");
         }
+
+        Date now = new Date();
+        System.out.println(now);
 
         scan.close();
     }
