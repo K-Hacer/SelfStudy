@@ -12,9 +12,9 @@ A complete 75-day journey to mastering Java, broken down into daily projects and
 | 2   | Variables, Data Types | Calculator App |
 | 3   | Type Conversion | Temperature Converter |
 | 4   | Conditional Statements | Even/Odd Checker |
-| 5   | If-else Practice | Leap Year Checker |
+| 5   | If-else ArrayList | Leap Year Checker |
 | 6   | Random Numbers | Number Guessing Game |
-| 7   | Review | Quiz & Practice |
+| 7   | Review | Quiz & ArrayList |
 | 8   | Loops | Multiplication Table |
 | 9   | For loop practice | Prime Number Checker |
 | 10  | While loop | Factorial Calculator |
@@ -62,7 +62,7 @@ A complete 75-day journey to mastering Java, broken down into daily projects and
 | 31  | Exception Basics | Custom Error Handler |
 | 32  | File Parsing | CSV Reader |
 | 33  | File-based App | Login System |
-| 34  | Review | File Practice |
+| 34  | Review | File ArrayList |
 | 35  | Test | Mini Exception Test |
 
 ---
@@ -86,12 +86,12 @@ A complete 75-day journey to mastering Java, broken down into daily projects and
 | Day | Topic | Project |
 |-----|-------|---------|
 | 43  | Generics | Generic Calculator |
-| 44  | Lambda | Lambda Practice |
+| 44  | Lambda | Lambda ArrayList |
 | 45  | Stream API | Stream Filter/Map |
 | 46  | Threads | Countdown Timer |
 | 47  | Sockets | Chat Client |
 | 48  | JDBC | Java + MySQL |
-| 49  | Review | Practice Quiz |
+| 49  | Review | ArrayList Quiz |
 
 ---
 
